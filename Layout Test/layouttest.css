@@ -1,0 +1,120 @@
+, html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid #0000;
+  }
+    
+  .A {
+    width: 100%;
+    height: 100px;
+    background-color: #ff0000;
+  }
+    .B {
+        width: 50%;
+        height: 200px;
+        background-color: #00FF00;
+        float: left;
+      }
+      
+    .C {
+        width: 50%;
+        height: 200px;
+        background-color: #FF00f0;
+        float: right;
+      }
+
+    .D {
+        width: 100%;
+        height: 50px;
+        background-color: #2e8d16;
+        clear: both ;
+      }
+    
+    .E {
+        width: 33.3%;
+        height: 200px;
+        background-color: #f3f309;
+        float: left;
+    }
+
+    .F {
+        width: 33.3%;
+        height: 200px;
+        background-color: #FF0000;
+        float: left;
+    }
+
+    .G {
+        width: 33.3%;
+        height: 200px;
+        background-color: #1100ff;
+        float: right;
+    }
+   
+    .H {
+        width: 100%;
+        height: 50px;
+        background-color: #ff0055;
+        clear: both ;
+      }
+
+      .I {
+        width: 25%;
+        height: 100px;
+        background-color: #473ddb;
+        float: right;
+      }
+
+      .J {
+        width: 25%;
+        height: 100px;
+        background-color: #9b95e9;
+        float: right;
+      }
+
+      .K {
+        width: 25%;
+        height: 100px;
+        background-color: #3ddb72;
+        float: right;
+      }
+
+      .L {
+        width: 25%;
+        height: 100px;
+        background-color: #071a11;
+        float: right;
+      }
+
+      .M {
+        width: 25%;
+        height: 50px;
+        background-color: #dba43d;
+        float: left;
+      }
+
+      .N {
+        width: 75%;
+        height: 50px;
+        background-color: #10a517;
+        float: right;
+      }
+
+      .O {
+        width: 75%;
+        height: 50px;
+        background-color: #8d651b;
+        float: left;
+      }
+
+      .P {
+        width: 25%;
+        height: 50px;
+        background-color: #b0dfb2;
+        float: right;
+      }
